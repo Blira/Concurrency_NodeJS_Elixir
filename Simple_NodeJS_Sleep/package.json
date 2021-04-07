@@ -1,0 +1,16 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "author": "lira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sleep": "^6.3.0"
+  }
+}
